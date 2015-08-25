@@ -1,6 +1,6 @@
 # Wunderlist-Statusboard
 A Wunderlist Panel for Statusboard
-
+![Alt text](http://i.imgur.com/YRvaE0m.png "Demo")
 ### Installation
 1. Generate an app at [Wunderlist](developer.wunderlist.com)
 2. Get the client token and secret. 
