@@ -1,6 +1,6 @@
 # Wunderlist-Statusboard
 A Wunderlist Panel for Statusboard
-![Alt text](http://i.imgur.com/YRvaE0m.png "Demo")
+![Alt text](http://i.imgur.com/G3mELHs.png "Demo")
 ### Installation
 #### Task count
 1. Generate an app at [Wunderlist](http://developer.wunderlist.com)
