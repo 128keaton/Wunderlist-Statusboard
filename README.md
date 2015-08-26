@@ -17,4 +17,4 @@ A Wunderlist Panel for Statusboard
 3. Copy those and paste them in `wunderlist-list.php`.
 4. Upload `wunderlist-list.php` to your web server.
 5. Add `http://your-ip/wunderlist-list.php` to a table in Statusboard.
-6. Create  'Today' and 'Tomorrow' lists in Wunderlist (or edit [here](https://github.com/128keaton/Wunderlist-Statusboard/blob/master/wunderlist-table.php#L25-29))
+6. Create  'Today' and 'Tomorrow' lists in Wunderlist (or edit [here](https://github.com/128keaton/Wunderlist-Statusboard/blob/master/wunderlist-list.php#L25-29))
